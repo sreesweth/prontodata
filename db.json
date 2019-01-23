@@ -2,7 +2,23 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Article 1",
+      "content": "Article text content will go in here"
+    },
+    {
+      "id": 2,
+      "title": "Article 2",
+      "content": "Article text content will go in here"
+    },
+    {
+      "id": 3,
+      "title": "Article 3",
+      "content": "Article text content will go in here"
+    },
+    {
+      "id": 4,
+      "title": "Article 4",
+      "content": "Article text content will go in here"
     }
   ],
   "profile": {
